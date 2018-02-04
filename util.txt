@@ -1,0 +1,3 @@
+http://cdc-react.herokuapp.com/api/autores
+https://github.com/alberto-alura/cdcadmin-api
+cd /usr/src/react/cdc-admin
