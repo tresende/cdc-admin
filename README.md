@@ -1,3 +1,9 @@
+# cdc-admin
+
+Código do curso *[Curso React parte 2: Container components e o ciclo de vida do react](https://cursos.alura.com.br/course/react-parte-2)* e 
+ *[Curso React parte 1: componentes reutilizáveis para sua webapp](https://cursos.alura.com.br/course/react)*
+<hr />
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
